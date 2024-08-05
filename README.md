@@ -1,0 +1,1 @@
+![Request results](qaa-hw-07-02-image-1.png)
